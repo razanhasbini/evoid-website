@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 6%;
+  --foreground: 0 0% 100%;
+  --primary: 260 80% 70%;
+  --accent: 270 100% 80%;
+  --muted: 240 5% 60%;
+  --silver: 0 0% 75%;
+  --charcoal: 240 4% 20%;
+}
